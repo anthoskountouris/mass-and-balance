@@ -1,0 +1,32 @@
+body{
+    /* background-image: url("img/da40.JPG"); */
+    background-image: url('https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/389280/1e34a99fd08161972282619da80efdfe3e478ffd.jpg');
+    background-attachment: fixed;
+    background-position: absolute;
+    background-position-x: right;
+    background-position-y: center;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */ 
+    width: 100%;
+
+
+}
+
+form{
+    font-size: 1.2rem;
+}
+
+#tank1,#tank2,#passengers,#kilos{
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+
+#results{
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
